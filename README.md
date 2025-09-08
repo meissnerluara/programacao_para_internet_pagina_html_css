@@ -1,1 +1,1 @@
-Criando uma página com HTML e CSS.
+Atividade sobre criação de página com HTML e CSS para a disciplina de Programação para Internet com o professor Bruno Aguiar.
