@@ -25,12 +25,12 @@
 /* body */
 main {
     background-color: rgba(5, 5, 5, 0.900);
-    height: 330vh;
+    height: 350vh;
 }
 
 .body-sobre {
     background-color: rgba(5, 5, 5, 0.900);
-    height: 110vh;
+    height: 130vh;
 }
 
 /* h1 */
@@ -99,7 +99,7 @@ main {
 
 
 .imagem-item img {
-    height: 160px;
+    height: 150px;
     object-fit: contain;
 }
 
@@ -242,3 +242,4 @@ main {
     padding-top: 20px;
 
 }
+
